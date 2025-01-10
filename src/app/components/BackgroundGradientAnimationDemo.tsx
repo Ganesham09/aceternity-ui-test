@@ -1,5 +1,6 @@
 import React from "react";
 import { BackgroundGradientAnimation } from "@/app/components/ui/background-gradient-animation";
+import { CoverDemo } from "./CoverDemo";
 
 export function BackgroundGradientAnimationDemo() {
   return (
